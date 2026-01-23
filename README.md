@@ -1,11 +1,11 @@
 <!-- 
-  ¡Hola! Soy Heber Marzán – Desarrollador Full Stack con enfoque en Frontend
+  ¡Hola! Soy Heber Marzán – Desarrollador Web Full Stack con enfoque en Frontend
   Este archivo se muestra automáticamente en tu perfil de GitHub si el repositorio se llama igual que tu usuario.
 -->
 
 <div align="center">
   <img src="https://via.placeholder.com/150?text=Foto" alt="Foto de perfil" width="150" style="border-radius: 50%; border: 2px solid #3b82f6;"/>
-  <h1>😀 ¡Hola! Soy Heber Marzán </h1>
+  <h1>🤝🏻¡Hola! Soy Heber Marzán </h1>
   <p><em>Desarrollador Web Full Stack | Ingeniero Industrial en transición tecnológica</em></p>
 </div>
 
@@ -13,7 +13,8 @@
 
 ## 👨🏻‍💻 Sobre mí
 
-🤝🏻 Soy **Ingeniero Industrial, especialista en Seguridad y Salud en el Trabajo**, con sólida experiencia en sistemas de gestión de calidad, Seguridad ndustrial y mejora de procesos.  
+🤝🏻 Soy **Ingeniero Industrial, especialista en Seguridad y Salud en el Trabajo**, con sólida experiencia en sistemas de gestión de calidad, seguridad industrial y mejora de procesos.  
+
 Hoy, aplico ese mismo **enfoque analítico, sistemático y orientado a la eficiencia** al desarrollo de software, construyendo soluciones técnicas **limpias, seguras y escalables**.
 
 🎓 Furuto graduado del bootcamp **Soy Henry**, me especializo en el desarrollo **Frontend con Next.js y React**, pero también domino el backend con **Node.js, Express, PostgreSQL y MongoDB**. Me apasiona transformar ideas en productos digitales funcionales y bien estructurados.
@@ -31,7 +32,7 @@ Hoy, aplico ese mismo **enfoque analítico, sistemático y orientado a la eficie
 - **PostgreSQL** (con **TypeORM**) · **MongoDB** (con **Mongoose**)
 
 ### 🔧 DevOps & Colaboración
-- **Visual Studio Code*** · **Gfit** · **GitHub** · Buenas prácticas de código limpio y arquitectura modular
+- **Visual Studio Code** · **Gfit** · **GitHub** · Buenas prácticas de código limpio y arquitectura modular
 
 ---
 
