@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Foto" alt="Foto de perfil" width="150" style="border-radius: 50%; border: 2px solid #3b82f6;"/>
+  <img src="profile.jpg" alt="Foto de perfil" width="800" style="border-radius: 50%; border: 2px solid #3b82f6;"/>
   <h1>🤝🏻¡Hola! Soy Heber Marzán </h1>
   <p><em>Desarrollador Web Full Stack | Ingeniero Industrial en transición tecnológica</em></p>
 </div>
@@ -55,7 +55,7 @@ Busco integrarme en un **equipo de desarrollo dinámico** donde pueda:
 ## 📬 Contacto
 
 - 📍 Arboletes, Antioquia, Colombia
-- ✉️ E-mail:[hebermarzan@gmail.com](mailto:hebermarzan@gmail.com)
+- ✉️ E-mail: [hebermarzan@gmail.com](mailto:hebermarzan@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/heber-marz%C3%A1n-74893135)  
 - 💼 [Portafolio](https://tuportafolio.com) *(en construcción)*
 
