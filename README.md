@@ -1,4 +1,70 @@
-## Hi there 👋
+<!-- 
+  ¡Hola! Soy Heber Marzán – Desarrollador Full Stack con enfoque en Frontend
+  Este archivo se muestra automáticamente en tu perfil de GitHub si el repositorio se llama igual que tu usuario.
+-->
+
+<div align="center">
+  <img src="https://via.placeholder.com/150?text=Foto" alt="Foto de perfil" width="150" style="border-radius: 50%; border: 2px solid #3b82f6;"/>
+  <h1>👋 ¡Hola! Soy Heber Marzán </h1>
+  <p><em>Desarrollador Full Stack | Ingeniero Industrial en transición tecnológica</em></p>
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+Soy **Ingeniero Industrial con especialización en Salud Ocupacional**, con sólida experiencia en sistemas de gestión de calidad, seguridad y salud en el trabajo, y mejora de procesos.  
+Hoy, aplico ese mismo **enfoque analítico, sistemático y orientado a la eficiencia** al desarrollo de software, construyendo soluciones técnicas **limpias, seguras y escalables**.
+
+Furuto graduado del bootcamp **Soy Henry**, me especializo en el desarrollo **Frontend con Next.js y React**, pero también domino el backend con **Node.js, Express, PostgreSQL y MongoDB**. Me apasiona transformar ideas en productos digitales funcionales y bien estructurados.
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+### 🔹 Frontend
+- **Next.js** · **React** · **TypeScript** · **JavaScript**
+- **Tailwind CSS** · **HTML5** · **CSS3**
+
+### 🔹 Backend & Bases de Datos
+- **Node.js** · **Express.js**
+- **PostgreSQL** (con **TypeORM**) · **MongoDB** (con **Mongoose**)
+
+### 🔹 DevOps & Colaboración
+- **Git** · **GitHub** · Buenas prácticas de código limpio y arquitectura modular
+
+---
+
+## 🎯 Objetivo
+
+Busco integrarme en un **equipo de desarrollo dinámico** donde pueda:
+- Aportar valor con mis habilidades técnicas y visión de procesos,
+- Colaborar en proyectos desafiantes,
+- Y seguir creciendo como desarrollador full stack.
+
+---
+
+## 💼 Proyectos destacados
+
+> ⚡ Pronto agregaré mis proyectos más relevantes aquí.  
+> *(Mientras tanto, puedes explorar mis repositorios públicos)*
+
+---
+
+## 📬 Contacto
+
+- 📍 Arboletes, Antioquia, Colombia
+- ✉️ E-mail:[hebermarzan@gmail.com](mailto:hebermarzan@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/heber-marz%C3%A1n-74893135)  
+- 💼 [Portafolio](https://tuportafolio.com) *(en construcción)*
+
+---
+
+<div align="center">
+  <sub>Gracias por visitar mi perfil 👨‍💻</sub>
+</div>
+
+
 
 <!--
 **heberzan/heberzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
