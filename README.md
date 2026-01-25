@@ -17,7 +17,7 @@
 
 Hoy, aplico ese mismo **enfoque analítico, sistemático y orientado a la eficiencia** al desarrollo de software, construyendo soluciones técnicas **limpias, seguras y escalables**.
 
-🎓 Furuto graduado del bootcamp **Soy Henry**, me especializo en el desarrollo **Frontend con Next.js y React**, pero también domino el backend con **Node.js, Express, PostgreSQL y MongoDB**. Me apasiona transformar ideas en productos digitales funcionales y bien estructurados.
+🎓 Futuro graduado del bootcamp **Soy Henry**, me especializo en el desarrollo **Frontend con Next.js y React**, pero también domino el backend con **Node.js, Express, PostgreSQL y MongoDB**. Me apasiona transformar ideas en productos digitales funcionales y bien estructurados.
 
 ---
 
