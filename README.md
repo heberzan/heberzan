@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Stack Tecnológico:
 
 ### 💻 Frontend
 - **Next.js** · **React** · **TypeScript** · **JavaScript**
@@ -47,8 +47,19 @@ Busco integrarme en un **equipo de desarrollo dinámico** donde pueda:
 
 ## 💼 Proyectos destacados
 
-> ⚡ Pronto agregaré mis proyectos más relevantes aquí.  
-> *(Mientras tanto, puedes explorar mis repositorios públicos)*
+> **VITA RED** (Proyecto grupal – Henry, 2025)
+Vita-red es una plataforma de salud digital que conecta pacientes y profesionales, simplificando la gestión de turnos y la experiencia médica.
+
+**Rol: Frontend Developer**
+**Funcionalidades:** 
+**Tecnologías:** Next.js 14+ (App Router) · TypeScript · Tailwind CSS
+**Funcionalidades desarrolladas:**
+**Sistema de autenticación:** Diseñé e implementé las interfaces de registro y login con integración completa al backend, asegurando una experiencia de usuario fluida y segura.
+**Dashboard Super Admin:** Desarrollé y optimicé la interfaz del panel administrativo con enfoque en la gestión integral de la plataforma, incluyendo:
+      - Creación y gestión de usuarios (doctores, secretarias, pacientes)
+      - Visualización de estadísticas y métricas clave del sistema
+      - Control total de permisos y roles de acceso
+> 
 
 ---
 
