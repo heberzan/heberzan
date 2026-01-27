@@ -13,11 +13,11 @@
 
 ## 👨🏻‍💻 Sobre mí
 
-🤝🏻 Soy **Ingeniero Industrial, especialista en Seguridad y Salud en el Trabajo**, con sólida experiencia en sistemas de gestión de calidad, seguridad industrial y mejora de procesos.  
+🤝🏻 !Hola¡ soy **Desarrollador Web Full Stack Junior** especializado en **Desarrollo Frontend**, domino las tecnologías **NextJS, React, TypeScript, JavaScript, Tailwind CSS** con enfoque en la creación de interfaces funcionales, accesibles y centradas en la experiencia del usuario (UX/UI), también desde el lado del backend domino las tecnologías **Node.js, Express, PostgreSQL, MongoDB** con enfoque en la lógica de negocio, la comunicación e integración de servicios.
 
-Hoy, aplico ese mismo **enfoque analítico, sistemático y orientado a la eficiencia** al desarrollo de software, construyendo soluciones técnicas **limpias, seguras y escalables**.
+⚙️ Cuento con mas de 10 años experiencia **No Tech** como **Ingeniero Industrial** especialista en seguridad y salud en el trabajo, y hoy día aplico ese mismo **enfoque analítico y sistemático** al desarrollo de aplicaciones Web limpias, seguras y escalables.
 
-🎓 Futuro graduado del bootcamp **Soy Henry**, me especializo en el desarrollo **Frontend con Next.js y React**, pero también domino el backend con **Node.js, Express, PostgreSQL y MongoDB**. Me apasiona transformar ideas en productos digitales funcionales y bien estructurados.
+🔎 **Busco integrarme** en equipos de desarrollo donde pueda **combinar mis conocimientos de ingeniería con mi pasión por la tecnología**, contribuyendo así a productos robustos, centrados en el usuario (UX/UI) y alineados con estándares de calidad y seguridad.
 
 ---
 
