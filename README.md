@@ -13,11 +13,11 @@
 
 ## 👨🏻‍💻 Sobre mí
 
-🤝🏻 !Hola¡ soy **Desarrollador Web Full Stack Junior** especializado en **Desarrollo Frontend**, domino las tecnologías **NextJS, React, TypeScript, JavaScript, Tailwind CSS** con enfoque en la creación de interfaces funcionales, accesibles y centradas en la experiencia del usuario (UX/UI), también desde el lado del backend domino las tecnologías **Node.js, Express, PostgreSQL, MongoDB** con enfoque en la lógica de negocio, la comunicación e integración de servicios.
+🤝🏻 !Hola¡ soy **Desarrollador Web Full Stack Junior** especializado en **Desarrollo Frontend**. Desde el lado del Frontend domino las tecnologías **NextJS, React, TypeScript, JavaScript, Tailwind CSS** con enfoque en la creación de interfaces funcionales y centradas en la experiencia del usuario (UX/UI), y desde el lado del Backend domino las tecnologías **Node.js, Express, PostgreSQL, MongoDB** con enfoque en la lógica de negocio e integración de servicios.
 
-⚙️ Cuento con mas de 10 años experiencia **No Tech** como **Ingeniero Industrial**, y hoy día aplico ese mismo **enfoque analítico y sistemático** al desarrollo de aplicaciones Web limpias, seguras y escalables.
+⚙️ Cuento con mas de 10 años experiencia como **Ingeniero Industrial** desarrollando habilidades en la gestión de sistemas integrados HSEQ (Salud, Seguridad, Ambiente y Calidad), y hoy día en la transición de mi carrera hacia el desarrollo web, aplico ese mismo **enfoque analítico y sistemático** al desarrollo de aplicaciones Web limpias, seguras y escalables.
 
-🔎 **Busco integrarme** en equipos de desarrollo donde pueda **combinar mis conocimientos de ingeniería con mi pasión por la tecnología**, contribuyendo así a productos robustos, centrados en el usuario (UX/UI) y alineados con estándares de calidad y seguridad.
+🔎 **Busco integrarme** en equipos de desarrollo web donde pueda **combinar mis conocimientos de ingeniería con mi pasión por la tecnología**, contribuyendo así a productos robustos, centrados en el usuario (UX/UI) y alineados con estándares de calidad y seguridad.
 
 ---
 
